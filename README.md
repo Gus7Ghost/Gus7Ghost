@@ -17,15 +17,41 @@
 
 Soy estudiante de 9no ciclo de **Ingeniería de Sistemas en la Universidad Nacional de Ingeniería (UNI)**, con egreso proyectado para **Diciembre de 2026**. Me especializo en dos áreas complementarias:
 1. **Inteligencia Artificial, Visión Computacional & Robótica:** Experiencia en el Laboratorio de IA y Robótica (**LabIAR - UNI**) desarrollando sistemas de seguimiento visual en tiempo real para vehículos aéreos no tripulados (UAVs) con YOLO, MediaPipe y protocolos de telemetría MAVLink.
-2. **Data Engineering & Business Intelligence:** Modelado dimensional de bases de datos relacionales (esquema estrella), pipelines ETL en Python y tableros analíticos en Power BI con medidas DAX avanzadas.
+2. **Backend Engineering, Data & Business Intelligence:** Arquitectura Limpia (Clean & Hexagonal) en **Java (Spring Boot)** y **C# (.NET 8)**, pipelines de streaming asíncrono en **Python (AsyncIO / Pydantic v2)** con rendimiento superior a 6,200 eventos/s, modelado dimensional de bases de datos relacionales (Kimball) y tableros analíticos en Power BI con medidas DAX avanzadas.
 
-Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y **Subcampeón Nacional Universitario de Kung Fu Wushu (2023)**, disciplinas que han forjado en mí rigor analítico, resiliencia y enfoque metódico para resolver problemas de ingeniería.
+Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y **Subcampeón Nacional Universitario de Kung Fu Wushu (2023)**, disciplinas que han forjado en mí rigor analítico, resiliencia y enfoque metódico para resolver problemas complejos de ingeniería.
 
 ---
 
-### 🚀 Repositorios Destacados
+### 🚀 Repositorios Destacados del Portafolio
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/csharp-iot-monitoring-api">⚡ C# IoT Monitoring API (.NET 8)</a></h3>
+      <p align="center"><em>API de telemetría industrial bajo Clean Architecture y Domain-Driven Design.</em></p>
+      <ul>
+        <li><strong>Stack:</strong> C# 12, .NET 8 LTS, EF Core InMemory, xUnit, Moq, FluentAssertions, Swagger.</li>
+        <li><strong>Aporte:</strong> Ingesta concurrente, evaluación de umbrales críticos de maquinaria y detección de anomalías.</li>
+        <li><strong>Calidad:</strong> 10/10 pruebas unitarias superadas, separación estricta en 5 capas desacopladas.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Gus7Ghost/csharp-iot-monitoring-api"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/python-telemetry-streaming">🚀 PyStreamPulse (Python Streaming)</a></h3>
+      <p align="center"><em>Framework de streaming asíncrono con Pydantic v2 y Dead-Letter Queue.</em></p>
+      <ul>
+        <li><strong>Stack:</strong> Python 3.12, Asyncio, Pydantic v2, Pytest-Asyncio, SQLite, JSONL.</li>
+        <li><strong>Rendimiento:</strong> >6,200 eventos/segundo sostenidos, control de contrapresión (Backpressure).</li>
+        <li><strong>Aporte:</strong> Detección estadística O(1) de picos anómalos (Rolling Z-Score) y despacho multi-sink.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Gus7Ghost/python-telemetry-streaming"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Gus7Ghost/quillinchu-ai">🚁 Quillinchu AI</a></h3>
@@ -54,18 +80,6 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Gus7Ghost/etl-bi-analytics-sql">📊 ETL Pipeline & SQL Analytics</a></h3>
-      <p align="center"><em>Data Warehouse dimensional y consultas analíticas avanzadas.</em></p>
-      <ul>
-        <li><strong>Stack:</strong> SQL (PostgreSQL/SQLite), Python (Pandas/SQLAlchemy), Power BI, DAX.</li>
-        <li><strong>Aporte:</strong> Modelado en estrella (Kimball), consultas con Window Functions (<code>DENSE_RANK</code>, <code>LAG</code>) y segmentación RFM con <code>NTILE(4)</code>.</li>
-        <li><strong>Base:</strong> Incluye base relacional de 1,000 transacciones operacionales.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Gus7Ghost/etl-bi-analytics-sql"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Gus7Ghost/java-core-banking-api">☕ Core Banking API (Java 21)</a></h3>
       <p align="center"><em>Microservicio transaccional financiero con Arquitectura Hexagonal.</em></p>
       <ul>
@@ -75,6 +89,18 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
       </ul>
       <p align="center">
         <a href="https://github.com/Gus7Ghost/java-core-banking-api"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/etl-bi-analytics-sql">📊 ETL Pipeline & SQL Analytics</a></h3>
+      <p align="center"><em>Data Warehouse dimensional y consultas analíticas avanzadas.</em></p>
+      <ul>
+        <li><strong>Stack:</strong> SQL (PostgreSQL/SQLite), Python (Pandas/SQLAlchemy), Power BI, DAX.</li>
+        <li><strong>Aporte:</strong> Modelado en estrella (Kimball), consultas con Window Functions (<code>DENSE_RANK</code>, <code>LAG</code>) y segmentación RFM con <code>NTILE(4)</code>.</li>
+        <li><strong>Base:</strong> Incluye base relacional de 1,000 transacciones operacionales.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Gus7Ghost/etl-bi-analytics-sql"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
       </p>
     </td>
   </tr>
@@ -110,10 +136,10 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **IA & Visión Computacional** | OpenCV, MediaPipe, YOLOv8 / YOLO, PyTorch, Scikit-Learn |
-| **Datos & Business Intelligence** | SQL Avanzado (PostgreSQL, SQLite), Power BI (DAX, Modelado Tabular), Pandas, NumPy, Excel Avanzado |
-| **Desarrollo & Backend** | Python, Java (OOP, Spring Boot), C# (.NET), PHP, REST APIs, Git / GitHub |
-| **Robótica & Telemetría** | MAVLink v2.0, ArduPilot / SITL, MAVProxy, Linux |
+| **Backend & Arquitectura** | C# (.NET 8 LTS, EF Core), Java 21 (Spring Boot 3, Hexagonal Architecture), Python (AsyncIO, Pydantic v2), REST APIs, OpenAPI/Swagger |
+| **IA & Visión Computacional** | OpenCV, MediaPipe, YOLOv8 / YOLO, PyTorch, Scikit-Learn, SHAP |
+| **Datos & Business Intelligence** | SQL Avanzado (PostgreSQL, SQLite, Window Functions), Power BI (DAX, Modelado Tabular), Pandas, NumPy, Excel Avanzado |
+| **Robótica & Telemetría** | Protocolos MAVLink v2.0, ArduPilot / SITL, MAVSDK, Linux |
 
 ---
 
