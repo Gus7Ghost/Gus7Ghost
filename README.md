@@ -65,16 +65,27 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
         <a href="https://github.com/Gus7Ghost/etl-bi-analytics-sql"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
       </p>
     </td>
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Gus7Ghost/drone-tracking-mavlink">🎯 UAV Tracking Controller</a></h3>
-      <p align="center"><em>Lazo de control PID multi-eje para navegación autónoma.</em></p>
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/churn-prediction-ml">🧠 Churn Predictor & SHAP</a></h3>
+      <p align="center"><em>Modelo predictivo de fuga con balanceo de clases y explicabilidad SHAP.</em></p>
       <ul>
-        <li><strong>Stack:</strong> Python, MAVLink v2.0, ArduPilot SITL, MAVProxy, OpenCV.</li>
-        <li><strong>Aporte:</strong> Generación de comandos de velocidad vectorial (Vx, Vy, Vz, YawRate) mediante <code>SET_POSITION_TARGET_LOCAL_NED</code>.</li>
-        <li><strong>Latencia:</strong> &lt;38 ms por ciclo de control.</li>
+        <li><strong>Stack:</strong> Scikit-Learn, SHAP, Random Forest, Cross-Validation Estratificada.</li>
+        <li><strong>Aporte:</strong> Optimización de umbral de corte PR-Curve (Recall: 96.5%) y descomposición de drivers de riesgo.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Gus7Ghost/drone-tracking-mavlink"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+        <a href="https://github.com/Gus7Ghost/churn-prediction-ml"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/powerbi-supplychain-dashboard">📈 Executive Power BI Dashboard</a></h3>
+      <p align="center"><em>Dashboard gerencial de operaciones y cadena de suministro en estrella.</em></p>
+      <ul>
+        <li><strong>Stack:</strong> Power BI Desktop, DAX Avanzado, Modelado Dimensional Kimball.</li>
+        <li><strong>Aporte:</strong> KPIs logísticos (OTIF %, Lead Time) e inteligencia de tiempo (YoY %, Media Móvil 3M).</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Gus7Ghost/powerbi-supplychain-dashboard"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
       </p>
     </td>
   </tr>
