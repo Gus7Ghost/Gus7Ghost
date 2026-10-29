@@ -106,25 +106,27 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Gus7Ghost/churn-prediction-ml">🧠 Churn Predictor & SHAP</a></h3>
-      <p align="center"><em>Modelo predictivo de fuga con balanceo de clases y explicabilidad SHAP.</em></p>
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/php-enterprise-servicedesk-mvc">🛡️ Enterprise Service Desk (PHP 8.3 MVC)</a></h3>
+      <p align="center"><em>Portal ITIL de gestión de incidentes y SLAs con RBAC y PDO nativo.</em></p>
       <ul>
-        <li><strong>Stack:</strong> Scikit-Learn, SHAP, Random Forest, Cross-Validation Estratificada.</li>
-        <li><strong>Aporte:</strong> Optimización de umbral de corte PR-Curve (Recall: 96.5%) y descomposición de drivers de riesgo.</li>
+        <li><strong>Stack:</strong> PHP 8.3 puro, Patrón MVC, Front Controller, SQLite, CSS3 responsivo.</li>
+        <li><strong>Seguridad:</strong> 100% Prepared Statements (Anti-SQLi), tokens CSRF criptográficos, XSS defense, Bcrypt.</li>
+        <li><strong>Pruebas:</strong> 20/20 pruebas unitarias y de integración pasando al 100%.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Gus7Ghost/churn-prediction-ml"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+        <a href="https://github.com/Gus7Ghost/php-enterprise-servicedesk-mvc"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/Gus7Ghost/powerbi-supplychain-dashboard">📈 Executive Power BI Dashboard</a></h3>
-      <p align="center"><em>Dashboard gerencial de operaciones y cadena de suministro en estrella.</em></p>
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/excel-financial-montecarlo">📊 Financial DCF & Monte Carlo (Excel)</a></h3>
+      <p align="center"><em>Modelo financiero con simulación de riesgo estocástico y Power Query.</em></p>
       <ul>
-        <li><strong>Stack:</strong> Power BI Desktop, DAX Avanzado, Modelado Dimensional Kimball.</li>
-        <li><strong>Aporte:</strong> KPIs logísticos (OTIF %, Lead Time) e inteligencia de tiempo (YoY %, Media Móvil 3M).</li>
+        <li><strong>Stack:</strong> Microsoft Excel Avanzado, Power Query (Lenguaje M), Python (OpenPyXL).</li>
+        <li><strong>Aporte:</strong> Flujo DCF a 5 años, análisis bidimensional (WACC vs Precio), <strong>5,000 iteraciones Monte Carlo</strong> con VaR 95%.</li>
+        <li><strong>Pruebas:</strong> 4/4 pruebas de validación con Pytest verificadas.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Gus7Ghost/powerbi-supplychain-dashboard"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+        <a href="https://github.com/Gus7Ghost/excel-financial-montecarlo"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
       </p>
     </td>
   </tr>
