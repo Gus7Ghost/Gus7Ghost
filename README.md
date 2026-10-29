@@ -117,6 +117,19 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
         <a href="https://github.com/Gus7Ghost/php-enterprise-servicedesk-mvc"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
       </p>
     </td>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/powerapps-inspection-workflow">📱 Industrial Inspection (Power Apps & Flow)</a></h3>
+      <p align="center"><em>Solución Canvas App con Dataverse, firma digital y aprobación automática.</em></p>
+      <ul>
+        <li><strong>Stack:</strong> Microsoft Power Apps, Power Automate, Dataverse, PowerFx, HTML5 Simulator.</li>
+        <li><strong>Aporte:</strong> Captura GPS en terreno, checklist dinámico con severidades y bifurcación de alertas críticas a Teams.</li>
+        <li><strong>Calidad:</strong> 4/4 pruebas automatizadas con Pytest verificadas.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Gus7Ghost/powerapps-inspection-workflow"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Gus7Ghost/excel-financial-montecarlo">📊 Financial DCF & Monte Carlo (Excel)</a></h3>
       <p align="center"><em>Modelo financiero con simulación de riesgo estocástico y Power Query.</em></p>
@@ -138,9 +151,10 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Backend & Arquitectura** | C# (.NET 8 LTS, EF Core), Java 21 (Spring Boot 3, Hexagonal Architecture), Python (AsyncIO, Pydantic v2), REST APIs, OpenAPI/Swagger |
+| **Backend & Arquitectura** | C# (.NET 8 LTS, EF Core), Java 21 (Spring Boot 3, Hexagonal Architecture), Python (AsyncIO, Pydantic v2), PHP 8.3 MVC, REST APIs, OpenAPI/Swagger |
 | **IA & Visión Computacional** | OpenCV, MediaPipe, YOLOv8 / YOLO, PyTorch, Scikit-Learn, SHAP |
-| **Datos & Business Intelligence** | SQL Avanzado (PostgreSQL, SQLite, Window Functions), Power BI (DAX, Modelado Tabular), Pandas, NumPy, Excel Avanzado |
+| **Datos & Business Intelligence** | SQL Avanzado (PostgreSQL, SQLite, Window Functions), Power BI (DAX, Modelado Tabular), Pandas, NumPy, Excel Avanzado (Monte Carlo, Power Query) |
+| **Power Platform & Low-Code** | Microsoft Power Apps (Canvas Apps, PowerFx), Power Automate (Cloud Flows), Microsoft Dataverse |
 | **Robótica & Telemetría** | Protocolos MAVLink v2.0, ArduPilot / SITL, MAVSDK, Linux |
 
 ---
