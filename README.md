@@ -65,6 +65,19 @@ Adicionalmente, soy **Subcampeón Nacional de Lucha China Shuai Jiao (2025)** y 
         <a href="https://github.com/Gus7Ghost/etl-bi-analytics-sql"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Gus7Ghost/java-core-banking-api">☕ Core Banking API (Java 21)</a></h3>
+      <p align="center"><em>Microservicio transaccional financiero con Arquitectura Hexagonal.</em></p>
+      <ul>
+        <li><strong>Stack:</strong> Java 21 LTS, Spring Boot 3.3, JPA/Hibernate, H2, JUnit 5, Mockito.</li>
+        <li><strong>Aporte:</strong> Transferencias atómicas ACID, manejo de errores RFC 7807 y documentación OpenAPI 3 / Swagger.</li>
+        <li><strong>Pruebas:</strong> 12 pruebas unitarias y de integración pasando al 100%.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Gus7Ghost/java-core-banking-api"><img src="https://img.shields.io/badge/Ver_Código-blue?style=flat-square" alt="Ver Código"></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/Gus7Ghost/churn-prediction-ml">🧠 Churn Predictor & SHAP</a></h3>
